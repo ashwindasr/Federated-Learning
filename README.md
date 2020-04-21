@@ -11,7 +11,7 @@ Check out Google's [online comic](https://federated.withgoogle.com) or [blog pos
   This notebook uses [PyTorch](https://pytorch.org/) and [PySyft](https://github.com/OpenMined/PySyft). 
 To install PyTorch on your device, follow the instructions [here](https://pytorch.org/get-started/locally/). If you're using [Google Colab](https://colab.research.google.com/), PyTorch comes pre-installed.<br /><br />
 To install PySyft, run the commands:
-```python
+```bash
 git clone https://github.com/OpenMined/PySyft.git
 python ./PySyft/ setup.py test
 pip install syft
