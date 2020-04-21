@@ -3,8 +3,7 @@
   A cats and dogs classifier trained using Federated Learning and deployed using PyTorch and PySyft.
 
 #### What is Federated Learning?
-  [Federated learning](https://en.wikipedia.org/wiki/Federated_learning) enables multiple actors to build a common, robust machine learning model without sharing data, thus addressing critical issues such as data privacy, data security, data access rights and access to heterogeneous data.<br />
-Check out Google's [online comic](https://federated.withgoogle.com) or [blog post](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) for more details.
+  [Federated learning](https://en.wikipedia.org/wiki/Federated_learning) is a machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, without exchanging their data samples. It enables multiple actors to build a common, robust machine learning model without sharing data, thus addressing critical issues such as data privacy, data security, data access rights and access to heterogeneous data. Check out Google's [online comic](https://federated.withgoogle.com) or [blog post](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) for more details.
 
 #### Installation
 
